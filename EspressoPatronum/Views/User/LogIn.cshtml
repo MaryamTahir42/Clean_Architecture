@@ -1,0 +1,18 @@
+﻿@model EspressoPatronum.Models.Entities.User
+
+
+<form class="container mt-4 signupform" asp-action="LogIn" method="post">
+    <div class="row2">
+        <div class="form-group">
+            <input class="form-control em" type="Email" name="Email" placeholder="Enter Email" value="@Model?.Email" required />
+        </div>
+        <div class="form-group">
+            <input class="form-control ps" type="password" name="Password" placeholder="Enter Password" value="@Model?.Password" required/>
+        </div>
+        
+        <div class="form-group">
+            <button type="submit" class="btns">Log In</button>
+        </div>
+    </div>
+</form>
+

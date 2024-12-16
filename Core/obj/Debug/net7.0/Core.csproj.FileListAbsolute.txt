@@ -1,0 +1,12 @@
+D:\7th Semester\EAD\Clean\EspressoPatronum\Core\bin\Debug\net7.0\Core.deps.json
+D:\7th Semester\EAD\Clean\EspressoPatronum\Core\bin\Debug\net7.0\Core.dll
+D:\7th Semester\EAD\Clean\EspressoPatronum\Core\bin\Debug\net7.0\Core.pdb
+D:\7th Semester\EAD\Clean\EspressoPatronum\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\7th Semester\EAD\Clean\EspressoPatronum\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+D:\7th Semester\EAD\Clean\EspressoPatronum\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+D:\7th Semester\EAD\Clean\EspressoPatronum\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\7th Semester\EAD\Clean\EspressoPatronum\Core\obj\Debug\net7.0\Core.dll
+D:\7th Semester\EAD\Clean\EspressoPatronum\Core\obj\Debug\net7.0\refint\Core.dll
+D:\7th Semester\EAD\Clean\EspressoPatronum\Core\obj\Debug\net7.0\Core.pdb
+D:\7th Semester\EAD\Clean\EspressoPatronum\Core\obj\Debug\net7.0\ref\Core.dll
+D:\7th Semester\EAD\Clean\EspressoPatronum\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache

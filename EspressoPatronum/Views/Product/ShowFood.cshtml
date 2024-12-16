@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Espresso Patronum";
+    Layout = "layout3";
+}
+@model IEnumerable<EspressoPatronum.Models.Entities.Product>
+
+<div class="container2">
+    <div class="text-center mb-4">
+        <p class="ft-5 pfivy">Delights for Wizards and Muggles Alike!</p>
+    </div>
+    <div class="row">
+        @foreach (var a in Model)
+        {
+            <a class="col-sm-5 mb-4 cardss" style="border-radius:40px;" href="/Product/ShowDetails">
+                <div class="card h-100 p-4">
+                    <div class="card-body">
+                        <h1 class="card-title" style="color: #cdc3b1; font-size: 40px;">@a.pname</h1>
+                        <p class="card-text" style="color: #cdc3b1;font-size: 25px;">@a.description</p>
+                        <p class="card-text" style="color: #cdc3b1;font-size: 25px;"><strong>Price:</strong> @a.price</p>
+                    </div>
+                </div>
+            </a>
+        }
+    </div>
+</div>
